@@ -1,0 +1,5 @@
+node_modules
+
+.env
+
+MONGODB_URL = mongodb+srv://icp11:icp11@icp-11-cluster.h4cecuw.mongodb.net/watchly
